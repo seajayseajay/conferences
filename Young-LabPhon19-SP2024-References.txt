@@ -1,6 +1,6 @@
-Acoustic correlates of penultimate and final stress in Yami
-Chun-Jan Young
-Speech Prosody 2024
+Chun-Jan Young (University of California, Santa Barbara)
+LabPhon 19: Lexical stress in Yami: investigating penultimate and final prominence
+Speech Prosody 2024: Acoustic correlates of penultimate and final stress in Yami
 
 References:
 Lai, L.-F. & S. Gooden (2016). Acoustic cues to prosodic boundaries in Yami: A first look. In Proceedings of Speech Prosody 8, 624–628.

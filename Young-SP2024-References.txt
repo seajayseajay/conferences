@@ -1,0 +1,12 @@
+Acoustic correlates of penultimate and final stress in Yami
+Chun-Jan Young
+Speech Prosody 2024
+
+References:
+Lai, L.-F. & S. Gooden (2016). Acoustic cues to prosodic boundaries in Yami: A first look. In Proceedings of Speech Prosody 8, 624–628.
+Lai, L.-F. & S. Gooden (2018). Intonation in contact: Mandarin influence in Yami. In Proceedings of Speech Prosody 9, 952–956. Poznań, Poland.
+Lai, L.-F. & S. Gooden (2022). Language contact, language ecology, and intonational variation in the Yami community. Language and Speech 65(4). 791–832.
+Moroz, G. (2017). lingtypology: easy mapping for Linguistic Typology. https://CRAN.R-project.org/package=lingtypology.
+Rau, D. V. & M.-N. Dong (2006). Yami texts with reference grammar and dictionary (Language and Linguistics Monograph Series A-10). Taipei: Institute of Linguistics, Academia Sinica.
+Rau, D. V. & M.-N. Dong (2018). Dawu yu yufa gailun 達悟語語法概論 [Introduction to Tao Grammar] (Formosan Language Series 台灣南島語叢書 14). New Taipei City: Council of Indigenous Peoples.
+Shue, Y.-L., P. Keating, C. Vicenik & K. Yu (2011). VoiceSauce: A program for voice analysis. In Proceedings of the ICPhS XVII, 1846–1849. Hong Kong.
